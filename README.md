@@ -45,4 +45,4 @@ https://www.kaggle.com/shrutimechlearn/churn-modelling
 
 you can see my finds in the blog on the link below:
 
-https://fatimammb.blogspot.com/2020/02/churn-prediction-for-bank-customers.html
+https://github.com/emanhsn3/DSND-Project-4/wiki/Churn-prediction-for-bank-customers
